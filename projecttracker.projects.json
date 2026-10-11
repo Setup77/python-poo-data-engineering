@@ -1,0 +1,386 @@
+[{
+  "_id": {
+    "$oid": "69b6defeafd106929c3ce971"
+  },
+  "title": "titre du projet 1",
+  "description": "sdf sdf sdfsdf sdf sdf sdf sdf sdf ",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-03-15T16:31:58.695Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-15T16:31:58.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b6f3ae1dfa65ed24f9b2ab"
+  },
+  "title": "bolo",
+  "description": "sdkljsdlkfjsd fkldjs flsdkfj",
+  "status": "active",
+  "user": {
+    "$oid": "69ad947aaefa0f2974a9fc96"
+  },
+  "createdAt": {
+    "$date": "2026-03-15T18:00:14.827Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-15T18:00:14.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b6f3e41dfa65ed24f9b2b6"
+  },
+  "title": "projet adamas",
+  "description": "sdfklsdjfklsdjf lksdfjlsdf",
+  "status": "active",
+  "user": {
+    "$oid": "69ad96b0aefa0f2974a9fc9b"
+  },
+  "createdAt": {
+    "$date": "2026-03-15T18:01:08.785Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-15T18:01:08.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69b6f3f21dfa65ed24f9b2ba"
+  },
+  "title": "top adams",
+  "description": "skldjflksdjf lskdfjsdlkfjsdlf",
+  "status": "active",
+  "user": {
+    "$oid": "69ad96b0aefa0f2974a9fc9b"
+  },
+  "createdAt": {
+    "$date": "2026-03-15T18:01:22.128Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-15T18:01:22.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c957cb986cef50d34db0af"
+  },
+  "title": "boof du lait",
+  "description": "<p>klsdflk klsdf fdpopo oppodsf oopo popo <strong>popo</strong> po po poo&nbsp;</p>",
+  "status": "active",
+  "user": {
+    "$oid": "69ad947aaefa0f2974a9fc96"
+  },
+  "allowedUsers": [
+    {
+      "$oid": "69ad96b0aefa0f2974a9fc9b"
+    },
+    {
+      "$oid": "69bffffb53316463497046f3"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-29T16:48:11.169Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-29T16:48:11.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c959ec986cef50d34db0b7"
+  },
+  "title": "toto mange la banane",
+  "description": "<ol><li><strong>Clarté :</strong> Si un projet n'a pas de suivi de progression (valeur null, undefined ou 0), l'interface reste épurée.</li><li><strong>Robustesse :</strong> Si project.progress est null, la condition project.progress &gt; 0 sera fausse et rien ne s'affichera (évitant ainsi d'éventuelles erreurs de calcul de style).</li></ol>",
+  "status": "completed",
+  "user": {
+    "$oid": "69ad947aaefa0f2974a9fc96"
+  },
+  "allowedUsers": [
+    {
+      "$oid": "69ad96b0aefa0f2974a9fc9b"
+    },
+    {
+      "$oid": "69bfffcc53316463497046f0"
+    },
+    {
+      "$oid": "69bfff9053316463497046ed"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-29T16:57:16.274Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-09T18:31:13.412Z"
+  },
+  "__v": 0,
+  "progress": 77
+},
+{
+  "_id": {
+    "$oid": "69d54b97c6e9900a620a49fc"
+  },
+  "title": "La tomate est rouge",
+  "description": "<p><strong>Fais un nouvel essai après avoir ajouté le await params: tout devrait maintenant s'enregistrer en base de données.</strong> _</p><p>Souhaites-tu que l'on vérifie également le <strong>modèle de données</strong> pour s'assurer que allowedUsersest bien défini comme un tableau d'ObjectIds ?</p><p>&nbsp;</p><p>&nbsp;</p><p><br>&nbsp;</p>",
+  "status": "active",
+  "user": {
+    "$oid": "69ad947aaefa0f2974a9fc96"
+  },
+  "allowedUsers": [
+    {
+      "$oid": "69ad96b0aefa0f2974a9fc9b"
+    },
+    {
+      "$oid": "69bffffb53316463497046f3"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-07T18:23:19.718Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-10T17:16:52.268Z"
+  },
+  "__v": 0,
+  "progress": 40
+},
+{
+  "_id": {
+    "$oid": "69d947030d1865f8de253842"
+  },
+  "title": "beaucoup de gens se font piéger",
+  "description": "<p>75% des traders perdent de l’argent à cause du manque d’expérience</p><p>Donc :</p><ul><li>❌ Évite les “robots miracles”</li><li>❌ Évite WhatsApp / Telegram trading</li><li>❌ Personne ne garantit des gains</li></ul>",
+  "status": "active",
+  "progress": 0,
+  "user": {
+    "$oid": "69ad947aaefa0f2974a9fc96"
+  },
+  "allowedUsers": [
+    {
+      "$oid": "69ad96b0aefa0f2974a9fc9b"
+    },
+    {
+      "$oid": "69bffffb53316463497046f3"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-10T18:52:51.319Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-10T18:52:51.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d947840d1865f8de253851"
+  },
+  "title": "Passionné par le développement full stack et par",
+  "description": "<p>Passionné par le <strong>développement</strong> full stack et particulièrement intéressé par l’intégration de l’intelligence artificielle dans les applications métiers, je souhaite rejoindre MyPlus Solutions afin de contribuer à la conception de solutions ERP innovantes et performantes.</p>",
+  "status": "active",
+  "progress": 0,
+  "user": {
+    "$oid": "69ad947aaefa0f2974a9fc96"
+  },
+  "allowedUsers": [
+    {
+      "$oid": "69ad96b0aefa0f2974a9fc9b"
+    },
+    {
+      "$oid": "69bffffb53316463497046f3"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-10T18:55:00.890Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-10T18:55:00.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d947b40d1865f8de253864"
+  },
+  "title": "Développeur freelance, j’ai acquis une solide expérien",
+  "description": "<p>Développeur freelance, j’ai acquis une solide expérience dans la conception d’applications web modernes avec JavaScript (React, Node.js) ainsi que dans le développement back-end et la gestion de bases de données. Habitué à intervenir sur l’ensemble du cycle de développement, je suis attentif à la qualité, la performance et la maintenabilité des solutions.</p>",
+  "status": "active",
+  "progress": 0,
+  "user": {
+    "$oid": "69ad947aaefa0f2974a9fc96"
+  },
+  "allowedUsers": [
+    {
+      "$oid": "69ad96b0aefa0f2974a9fc9b"
+    },
+    {
+      "$oid": "69bfff9053316463497046ed"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-10T18:55:48.834Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-10T18:55:48.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d947e30d1865f8de253877"
+  },
+  "title": "Nous recherchons également",
+  "description": "<p>Tu disposes de solides compétences en JavaScript / <strong>TypeScript </strong>et Angular. Tu as une expérience pratique avec MSSQL et/ou MySQL. Idéalement, tu as déjà travaillé avec des LLMs ou des APIs d’intelligence artificielle.</p>",
+  "status": "active",
+  "progress": 0,
+  "user": {
+    "$oid": "69ad947aaefa0f2974a9fc96"
+  },
+  "allowedUsers": [
+    {
+      "$oid": "69bfffcc53316463497046f0"
+    },
+    {
+      "$oid": "69bffffb53316463497046f3"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-10T18:56:35.751Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-10T18:56:35.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d9d6407b12dd0d1aeba474"
+  },
+  "title": "Page de la liste des membres",
+  "description": "<p>On utilise un <strong>composant </strong>serveur pour le fetch (ou client selon ta préférence, ici en mode simple).</p><p>&nbsp;</p><p><br>&nbsp;</p>",
+  "status": "active",
+  "progress": 0,
+  "user": {
+    "$oid": "69ad96b0aefa0f2974a9fc9b"
+  },
+  "allowedUsers": [
+    {
+      "$oid": "69ad947aaefa0f2974a9fc96"
+    },
+    {
+      "$oid": "69bfff9053316463497046ed"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-11T05:04:00.998Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T05:04:00.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d9dfb07b12dd0d1aeba52f"
+  },
+  "title": "Pour récupérer la liste complète ",
+  "description": "<p><strong>Pourquoi cette approche ?</strong></p><ul><li><strong>DRY (Don't Repeat Yourself)</strong> : Tu ne crées pas un deuxième fichier de route presque identique.</li><li><strong>Flexibilité</strong> : Tu peux toujours filtrer par nom même sur la liste complète (ex: ?all=true&amp;search=wil).</li></ul><p>Est-ce que tu veux qu'on passe à la création du <strong>formulaire de création de projet</strong> où tu pourras utiliser cette liste complète pour assigner un membre ?</p>",
+  "status": "active",
+  "progress": 49,
+  "user": {
+    "$oid": "69ad947aaefa0f2974a9fc96"
+  },
+  "allowedUsers": [
+    {
+      "$oid": "69bfffcc53316463497046f0"
+    },
+    {
+      "$oid": "69bffffb53316463497046f3"
+    },
+    {
+      "$oid": "69ad96b0aefa0f2974a9fc9b"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-11T05:44:16.411Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T05:44:59.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dbad2a2f640941ea92ddfc"
+  },
+  "title": "la famille kazana",
+  "description": "<p>d'une puissance militaire <strong>incomparable</strong>. toutes mes esxcuqe lil maitrise meme la technique du multiclonagfe suppra.&nbsp;</p>",
+  "status": "active",
+  "progress": 0,
+  "user": {
+    "$oid": "69dba29c2f640941ea92ddf5"
+  },
+  "allowedUsers": [
+    {
+      "$oid": "69bfff9053316463497046ed"
+    },
+    {
+      "$oid": "69bfffcc53316463497046f0"
+    },
+    {
+      "$oid": "69ad947aaefa0f2974a9fc96"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-12T14:33:14.848Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-12T14:33:14.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ee71d717bc7d7731e2f609"
+  },
+  "title": "constructions ",
+  "description": "<p>dsfgsdf sdf sdf</p>",
+  "status": "active",
+  "progress": 0,
+  "user": {
+    "$oid": "69ee712e17bc7d7731e2f5bf"
+  },
+  "allowedUsers": [
+    {
+      "$oid": "69ad96b0aefa0f2974a9fc9b"
+    },
+    {
+      "$oid": "69bfffcc53316463497046f0"
+    },
+    {
+      "$oid": "69bfff9053316463497046ed"
+    },
+    {
+      "$oid": "69ad947aaefa0f2974a9fc96"
+    },
+    {
+      "$oid": "69dba29c2f640941ea92ddf5"
+    },
+    {
+      "$oid": "69bffffb53316463497046f3"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-26T20:13:11.072Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-26T20:13:11.072Z"
+  },
+  "__v": 0
+}]

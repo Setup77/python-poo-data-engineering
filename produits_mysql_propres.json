@@ -1,0 +1,156 @@
+[
+    {
+        "id": 13,
+        "name": "Chaussures Homme",
+        "description": "Cette activité s'exerce pour le compte de sociétés privées, d'administrations (services de l'Etat…), et de particuliers, en contact avec une clientèle diversifiée.",
+        "price": 140.0,
+        "stock_quantity": 12,
+        "created_at": "2026-07-18T14:39:34",
+        "category_id": 9,
+        "image": "/uploads/products/Annonces-par-nojeva-07-07-2023-modele-unique-sasort-loc-1688724337-6a5ca60f6d7b3.jpg",
+        "user_id": 1
+    },
+    {
+        "id": 23,
+        "name": "Ordinateur de bureau",
+        "description": "des ordinateurs connectés partout",
+        "price": 200.0,
+        "stock_quantity": 38,
+        "created_at": "2026-07-18T19:01:42",
+        "category_id": 5,
+        "image": null,
+        "user_id": 1
+    },
+    {
+        "id": 22,
+        "name": "Ordinateur de bureau",
+        "description": "des ordinateurs connectés partout",
+        "price": 200.0,
+        "stock_quantity": 38,
+        "created_at": "2026-07-18T19:01:44",
+        "category_id": 5,
+        "image": null,
+        "user_id": 1
+    },
+    {
+        "id": 16,
+        "name": "Produit Exemple 5",
+        "description": "l’expérience et requiert, éventuellement, d’autres compétences professionnelles en termes de langue, de sécurité, de permis... Ces raisons font qu’il ne sera pas développé dans cette grappe de métiers.",
+        "price": 100000.0,
+        "stock_quantity": 71,
+        "created_at": "2026-07-18T14:39:34",
+        "category_id": 10,
+        "image": "/uploads/products/Annonces-par-lewill-09-11-2023-bmw-sasort-loc-1699487385-6a5ca38038ccc.jpg",
+        "user_id": 2
+    },
+    {
+        "id": 17,
+        "name": "Produit Exemple 6",
+        "description": "Description automatique pour le produit numéro 6",
+        "price": 30.3,
+        "stock_quantity": 64,
+        "created_at": "2026-07-18T14:39:34",
+        "category_id": 6,
+        "image": null,
+        "user_id": 1
+    },
+    {
+        "id": 18,
+        "name": "Produit Exemple 7",
+        "description": "Description automatique pour le produit numéro 7",
+        "price": 28.0,
+        "stock_quantity": 17,
+        "created_at": "2026-07-18T14:39:34",
+        "category_id": 6,
+        "image": null,
+        "user_id": 1
+    },
+    {
+        "id": 19,
+        "name": "Produit Exemple 8",
+        "description": "Description automatique pour le produit numéro 8",
+        "price": 5.6,
+        "stock_quantity": 43,
+        "created_at": "2026-07-18T14:39:34",
+        "category_id": 7,
+        "image": null,
+        "user_id": 2
+    },
+    {
+        "id": 20,
+        "name": "Produit Exemple 9",
+        "description": "Description automatique pour le produit numéro 9",
+        "price": 83.1,
+        "stock_quantity": 86,
+        "created_at": "2026-07-18T14:39:34",
+        "category_id": 6,
+        "image": null,
+        "user_id": 1
+    },
+    {
+        "id": 21,
+        "name": "ToFou maison",
+        "description": "tigieuse, permettant de répondre à toutes les attentes en matière de transport haut de gamme de personnes avec chauffeur (V.I.P., personnalité liées au monde des arts et du spectacle, clientèle désireuse de se déplacer dans des véhicules de luxe…)",
+        "price": 12.0,
+        "stock_quantity": 54,
+        "created_at": "2026-07-18T14:39:34",
+        "category_id": 9,
+        "image": "/uploads/products/about-main-6a5ca3bcc89fb.jpg",
+        "user_id": 2
+    },
+    {
+        "id": 24,
+        "name": "dfsdfsdfsdf",
+        "description": "fdssdf dsfsdf",
+        "price": 23.0,
+        "stock_quantity": 2,
+        "created_at": "2026-07-18T19:38:46",
+        "category_id": 5,
+        "image": null,
+        "user_id": 1
+    },
+    {
+        "id": 26,
+        "name": "montre connecté",
+        "description": "toujours savoir le moment exacte",
+        "price": 2000.0,
+        "stock_quantity": 26,
+        "created_at": "2026-07-18T20:25:18",
+        "category_id": 5,
+        "image": "/uploads/products/Annonces-par-BlackM-30-07-2023-7000EUR-ledossier-loc-1690725024-6a5be12eabf03.jpg",
+        "user_id": 1
+    },
+    {
+        "id": 27,
+        "name": "Tennis sport",
+        "description": "Le métier de chauffeur de véhicule pour « Very Important Person » (V.I.P.) est une spécialisation qui dépend principalement",
+        "price": 350.0,
+        "stock_quantity": 43,
+        "created_at": "2026-07-19T09:27:54",
+        "category_id": 5,
+        "image": "/uploads/products/Annonces-par-gaga-28-07-2023-450EUR-sasort-loc-1690561586-6a5c989a4382c.jpg",
+        "user_id": 2
+    },
+    {
+        "id": 28,
+        "name": "Smartphone",
+        "description": "Téléphoner et explorer internet avec tous les réseaux sociaux",
+        "price": 750.0,
+        "stock_quantity": 4,
+        "created_at": "2026-07-19T10:01:07",
+        "category_id": 5,
+        "image": "/uploads/products/Annonces-par-bee-11-07-2023-750-Euro-sasort-loc-1689056749-6a5ca0637062c.jpg",
+        "user_id": 2
+    },
+    {
+        "id": 31,
+        "name": "Villa à vendre",
+        "description": "Villa , 2 chambres , terrasse , 2 douches , cuisine , piscine",
+        "price": 120000.0,
+        "stock_quantity": 3,
+        "created_at": "2026-09-10T18:47:50",
+        "category_id": 14,
+        "image": "/uploads/products/Annonces-par-judicatiel-09-07-2023-images-2022-09-15T155917-860-sasort-loc-1688886656-6aa2fb5642134.jpg",
+        "user_id": 4
+    }
+]

@@ -1,0 +1,252 @@
+{
+    "total_projets": 15,
+    "total_produits": 14,
+    "projets": [
+        {
+            "id_projet": "69b6defeafd106929c3ce971",
+            "titre": "titre du projet 1",
+            "description": "sdf sdf sdfsdf sdf sdf sdf sdf sdf",
+            "statut": "active"
+        },
+        {
+            "id_projet": "69b6f3ae1dfa65ed24f9b2ab",
+            "titre": "bolo",
+            "description": "sdkljsdlkfjsd fkldjs flsdkfj",
+            "statut": "active"
+        },
+        {
+            "id_projet": "69b6f3e41dfa65ed24f9b2b6",
+            "titre": "projet adamas",
+            "description": "sdfklsdjfklsdjf lksdfjlsdf",
+            "statut": "active"
+        },
+        {
+            "id_projet": "69b6f3f21dfa65ed24f9b2ba",
+            "titre": "top adams",
+            "description": "skldjflksdjf lskdfjsdlkfjsdlf",
+            "statut": "active"
+        },
+        {
+            "id_projet": "69c957cb986cef50d34db0af",
+            "titre": "boof du lait",
+            "description": "klsdflk klsdf fdpopo oppodsf oopo popo popo po po poo&nbsp;",
+            "statut": "active"
+        },
+        {
+            "id_projet": "69c959ec986cef50d34db0b7",
+            "titre": "toto mange la banane",
+            "description": "Clarté : Si un projet n'a pas de suivi de progression (valeur null, undefined ou 0), l'interface reste épurée.Robustesse : Si project.progress est null, la condition project.progress &gt; 0 sera fausse et rien ne s'affichera (évitant ainsi d'éventuelles erreurs de calcul de style).",
+            "statut": "completed"
+        },
+        {
+            "id_projet": "69d54b97c6e9900a620a49fc",
+            "titre": "La tomate est rouge",
+            "description": "Fais un nouvel essai après avoir ajouté le await params: tout devrait maintenant s'enregistrer en base de données. _Souhaites-tu que l'on vérifie également le modèle de données pour s'assurer que allowedUsersest bien défini comme un tableau d'ObjectIds ?&nbsp;&nbsp;&nbsp;",
+            "statut": "active"
+        },
+        {
+            "id_projet": "69d947030d1865f8de253842",
+            "titre": "beaucoup de gens se font piéger",
+            "description": "75% des traders perdent de l’argent à cause du manque d’expérienceDonc :❌ Évite les “robots miracles”❌ Évite WhatsApp / Telegram trading❌ Personne ne garantit des gains",
+            "statut": "active"
+        },
+        {
+            "id_projet": "69d947840d1865f8de253851",
+            "titre": "Passionné par le développement full stack et par",
+            "description": "Passionné par le développement full stack et particulièrement intéressé par l’intégration de l’intelligence artificielle dans les applications métiers, je souhaite rejoindre MyPlus Solutions afin de contribuer à la conception de solutions ERP innovantes et performantes.",
+            "statut": "active"
+        },
+        {
+            "id_projet": "69d947b40d1865f8de253864",
+            "titre": "Développeur freelance, j’ai acquis une solide expérien",
+            "description": "Développeur freelance, j’ai acquis une solide expérience dans la conception d’applications web modernes avec JavaScript (React, Node.js) ainsi que dans le développement back-end et la gestion de bases de données. Habitué à intervenir sur l’ensemble du cycle de développement, je suis attentif à la qualité, la performance et la maintenabilité des solutions.",
+            "statut": "active"
+        },
+        {
+            "id_projet": "69d947e30d1865f8de253877",
+            "titre": "Nous recherchons également",
+            "description": "Tu disposes de solides compétences en JavaScript / TypeScript et Angular. Tu as une expérience pratique avec MSSQL et/ou MySQL. Idéalement, tu as déjà travaillé avec des LLMs ou des APIs d’intelligence artificielle.",
+            "statut": "active"
+        },
+        {
+            "id_projet": "69d9d6407b12dd0d1aeba474",
+            "titre": "Page de la liste des membres",
+            "description": "On utilise un composant serveur pour le fetch (ou client selon ta préférence, ici en mode simple).&nbsp;&nbsp;",
+            "statut": "active"
+        },
+        {
+            "id_projet": "69d9dfb07b12dd0d1aeba52f",
+            "titre": "Pour récupérer la liste complète",
+            "description": "Pourquoi cette approche ?DRY (Don't Repeat Yourself) : Tu ne crées pas un deuxième fichier de route presque identique.Flexibilité : Tu peux toujours filtrer par nom même sur la liste complète (ex: ?all=true&amp;search=wil).Est-ce que tu veux qu'on passe à la création du formulaire de création de projet où tu pourras utiliser cette liste complète pour assigner un membre ?",
+            "statut": "active"
+        },
+        {
+            "id_projet": "69dbad2a2f640941ea92ddfc",
+            "titre": "la famille kazana",
+            "description": "d'une puissance militaire incomparable. toutes mes esxcuqe lil maitrise meme la technique du multiclonagfe suppra.&nbsp;",
+            "statut": "active"
+        },
+        {
+            "id_projet": "69ee71d717bc7d7731e2f609",
+            "titre": "constructions",
+            "description": "dsfgsdf sdf sdf",
+            "statut": "active"
+        }
+    ],
+    "produits": [
+        {
+            "id": 13,
+            "name": "Chaussures Homme",
+            "description": "Cette activité s'exerce pour le compte de sociétés privées, d'administrations (services de l'Etat…), et de particuliers, en contact avec une clientèle diversifiée.",
+            "price": 140.0,
+            "stock_quantity": 12,
+            "created_at": "2026-07-18T14:39:34",
+            "category_id": 9,
+            "image": "/uploads/products/Annonces-par-nojeva-07-07-2023-modele-unique-sasort-loc-1688724337-6a5ca60f6d7b3.jpg",
+            "user_id": 1
+        },
+        {
+            "id": 23,
+            "name": "Ordinateur de bureau",
+            "description": "des ordinateurs connectés partout",
+            "price": 200.0,
+            "stock_quantity": 38,
+            "created_at": "2026-07-18T19:01:42",
+            "category_id": 5,
+            "image": null,
+            "user_id": 1
+        },
+        {
+            "id": 22,
+            "name": "Ordinateur de bureau",
+            "description": "des ordinateurs connectés partout",
+            "price": 200.0,
+            "stock_quantity": 38,
+            "created_at": "2026-07-18T19:01:44",
+            "category_id": 5,
+            "image": null,
+            "user_id": 1
+        },
+        {
+            "id": 16,
+            "name": "Produit Exemple 5",
+            "description": "l’expérience et requiert, éventuellement, d’autres compétences professionnelles en termes de langue, de sécurité, de permis... Ces raisons font qu’il ne sera pas développé dans cette grappe de métiers.",
+            "price": 100000.0,
+            "stock_quantity": 71,
+            "created_at": "2026-07-18T14:39:34",
+            "category_id": 10,
+            "image": "/uploads/products/Annonces-par-lewill-09-11-2023-bmw-sasort-loc-1699487385-6a5ca38038ccc.jpg",
+            "user_id": 2
+        },
+        {
+            "id": 17,
+            "name": "Produit Exemple 6",
+            "description": "Description automatique pour le produit numéro 6",
+            "price": 30.3,
+            "stock_quantity": 64,
+            "created_at": "2026-07-18T14:39:34",
+            "category_id": 6,
+            "image": null,
+            "user_id": 1
+        },
+        {
+            "id": 18,
+            "name": "Produit Exemple 7",
+            "description": "Description automatique pour le produit numéro 7",
+            "price": 28.0,
+            "stock_quantity": 17,
+            "created_at": "2026-07-18T14:39:34",
+            "category_id": 6,
+            "image": null,
+            "user_id": 1
+        },
+        {
+            "id": 19,
+            "name": "Produit Exemple 8",
+            "description": "Description automatique pour le produit numéro 8",
+            "price": 5.6,
+            "stock_quantity": 43,
+            "created_at": "2026-07-18T14:39:34",
+            "category_id": 7,
+            "image": null,
+            "user_id": 2
+        },
+        {
+            "id": 20,
+            "name": "Produit Exemple 9",
+            "description": "Description automatique pour le produit numéro 9",
+            "price": 83.1,
+            "stock_quantity": 86,
+            "created_at": "2026-07-18T14:39:34",
+            "category_id": 6,
+            "image": null,
+            "user_id": 1
+        },
+        {
+            "id": 21,
+            "name": "ToFou maison",
+            "description": "tigieuse, permettant de répondre à toutes les attentes en matière de transport haut de gamme de personnes avec chauffeur (V.I.P., personnalité liées au monde des arts et du spectacle, clientèle désireuse de se déplacer dans des véhicules de luxe…)",
+            "price": 12.0,
+            "stock_quantity": 54,
+            "created_at": "2026-07-18T14:39:34",
+            "category_id": 9,
+            "image": "/uploads/products/about-main-6a5ca3bcc89fb.jpg",
+            "user_id": 2
+        },
+        {
+            "id": 24,
+            "name": "dfsdfsdfsdf",
+            "description": "fdssdf dsfsdf",
+            "price": 23.0,
+            "stock_quantity": 2,
+            "created_at": "2026-07-18T19:38:46",
+            "category_id": 5,
+            "image": null,
+            "user_id": 1
+        },
+        {
+            "id": 26,
+            "name": "montre connecté",
+            "description": "toujours savoir le moment exacte",
+            "price": 2000.0,
+            "stock_quantity": 26,
+            "created_at": "2026-07-18T20:25:18",
+            "category_id": 5,
+            "image": "/uploads/products/Annonces-par-BlackM-30-07-2023-7000EUR-ledossier-loc-1690725024-6a5be12eabf03.jpg",
+            "user_id": 1
+        },
+        {
+            "id": 27,
+            "name": "Tennis sport",
+            "description": "Le métier de chauffeur de véhicule pour « Very Important Person » (V.I.P.) est une spécialisation qui dépend principalement",
+            "price": 350.0,
+            "stock_quantity": 43,
+            "created_at": "2026-07-19T09:27:54",
+            "category_id": 5,
+            "image": "/uploads/products/Annonces-par-gaga-28-07-2023-450EUR-sasort-loc-1690561586-6a5c989a4382c.jpg",
+            "user_id": 2
+        },
+        {
+            "id": 28,
+            "name": "Smartphone",
+            "description": "Téléphoner et explorer internet avec tous les réseaux sociaux",
+            "price": 750.0,
+            "stock_quantity": 4,
+            "created_at": "2026-07-19T10:01:07",
+            "category_id": 5,
+            "image": "/uploads/products/Annonces-par-bee-11-07-2023-750-Euro-sasort-loc-1689056749-6a5ca0637062c.jpg",
+            "user_id": 2
+        },
+        {
+            "id": 31,
+            "name": "Villa à vendre",
+            "description": "Villa , 2 chambres , terrasse , 2 douches , cuisine , piscine",
+            "price": 120000.0,
+            "stock_quantity": 3,
+            "created_at": "2026-09-10T18:47:50",
+            "category_id": 14,
+            "image": "/uploads/products/Annonces-par-judicatiel-09-07-2023-images-2022-09-15T155917-860-sasort-loc-1688886656-6aa2fb5642134.jpg",
+            "user_id": 4
+        }
+    ]
+}
